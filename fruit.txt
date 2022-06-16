@@ -9,3 +9,12 @@ Nozzi blog Apple
 
 YuJaena Melon
 >>>>>>> 8953e15e1d63ed2390a4a79dedbe43821801a98a
+
+나도 잘 모르겠다아
+
+
+오늘 점심 뭐나와요?
+
+
+git add fruit.txt
+git push -m 
