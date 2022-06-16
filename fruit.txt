@@ -14,3 +14,7 @@ YuJaena Melon
 
 
 오늘 점심 뭐나와요?
+
+
+git add fruit.txt
+git push -m 
